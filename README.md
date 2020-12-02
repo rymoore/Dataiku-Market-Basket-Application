@@ -1,5 +1,7 @@
 # Dataiku-Market-Basket-Application
 
+![Application Screenshot](/app_ss.png)
+
 ### Instructions
 1) Import the market_basket_app.zip code environment (Admin=>Code Envs=>Import Env)
    - If this does not import correctly, create a new Code Environment called `market_basket_app` using Python 3.6 and add the following PIP packages:
